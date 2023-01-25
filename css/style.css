@@ -1,0 +1,30 @@
+
+body{
+    background-color: lightblue;
+    text-align: center;
+
+  
+    }
+.bg{
+    background-image:url("/meadowbg.png");
+
+    height: 700px;
+    width: 1300px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+
+    }    
+
+.dino1{
+    background-image: url(/dinowave.GIF);
+
+    height: 600px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position-x: right ;
+    background-position-y: bottom;
+    background-position: auto;
+    margin: auto;
+}
+
