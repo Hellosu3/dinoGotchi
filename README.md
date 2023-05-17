@@ -1,4 +1,3 @@
 # dinoGotchi
 
-about: this game was inpired by the original tamagotchi game. Similar to an actual pet, you have to feed it, play with it, an clean up it's poop.
-
+This game is a modern take on the classic Tamagotchi game, where you are responsible for taking care of a virtual pet. Just like a real pet, you need to feed it, play with it, and even clean up after it!
